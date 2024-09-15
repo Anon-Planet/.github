@@ -15,8 +15,8 @@
     <a href="https://twitter.com/AnonyPla">
         <img src="https://img.shields.io/twitter/follow/AnonyPla">
     </a>
-    <a href="https://matrix.to/#/#privacy-security-anonymity:matrix.org">
-    	<img src="https://img.shields.io/matrix/privacy-security-anonymity%3Amatrix.org?style=flat-square&label=Space&logo=matrix">
+    <a href="https://matrix.to/#/#psa:anonymousplanet.net">
+    	<img src="https://img.shields.io/matrix/psa%3Aanonymousplanet.net?style=flat-square&label=Space&logo=matrix">
     </a>
     <a href="https://github.com/Anon-Planet/thgtoa/issues">
         <img src="https://img.shields.io/github/issues/anon-planet/thgtoa?style=flat-square&logo=github&label=Issues&labelColor=%2377dd77">
